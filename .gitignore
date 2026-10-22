@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+chip8
+main
+
+# Build artifacts & binaries
+bin/
+build/
+dist/
+*.o
+*.out
+*.mod
+*.bin
+
