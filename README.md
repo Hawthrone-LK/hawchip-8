@@ -4,7 +4,7 @@ A custom **CHIP-8 Virtual Machine / Interpreter** built from scratch.
 Devloped for lonelly Asssembly programmers (A.K.A: Me) fell like programming in the Apple II
 (but without have an Insanity debuff programming in the MOS 6502)
 
-![HawCHIP-8 Demo](assets/pong.mp4) 
+<video src="assets/gameplay.mp4" autoplay loop muted playsinline width="25%"></video>
 
 ---
 
